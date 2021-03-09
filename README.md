@@ -9,10 +9,14 @@ Repo to keep my erlang learnings.
 
 ## Some resources I got
 
-- I am using resources mentioned in this [answer](https://stackoverflow.com/questions/1017017/what-is-the-best-way-to-learn-erlang)
+- I am using resources mentioned in this [answer](https://stackoverflow.com/questions/1017017/what-is-the-best-way-to-learn-erlang), [community section](https://www.erlang.org/community) and whatever I find on net.
 - In particular, I am following :
     - http://erlang.org/doc/getting_started/users_guide.html
     - https://learnyousomeerlang.com/content
+    - https://www.ibm.com/developerworks/library/os-erlang1/index.html
+    - https://exercism.io/my/tracks/erlang
+    - https://howistart.org/posts/erlang/1/
+
 
 
 Note: I am still learning so not 100% of what I say may be correct or best way to do it :)
