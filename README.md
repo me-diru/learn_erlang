@@ -16,7 +16,8 @@ Repo to keep my erlang learnings.
     - https://www.ibm.com/developerworks/library/os-erlang1/index.html
     - https://exercism.io/my/tracks/erlang
     - https://howistart.org/posts/erlang/1/
-
-
+    - https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Erlang.html
+    - https://erlangbyexample.org/
+    - [Video series](https://www.youtube.com/playlist?list=PLlML6SMLMRgAooeL26mW502jCgWikqx_n)
 
 Note: I am still learning so not 100% of what I say may be correct or best way to do it :)
