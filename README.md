@@ -19,5 +19,6 @@ Repo to keep my erlang learnings.
     - https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Erlang.html
     - https://erlangbyexample.org/
     - [Video series](https://www.youtube.com/playlist?list=PLlML6SMLMRgAooeL26mW502jCgWikqx_n)
+    - [Introducing Erlang: Getting Started in Functional Programming pdf](http://www.r-5.org/files/books/computers/languages/erlang/erlang/Simon_St_Laurent-Introducing_Erlang-EN.pdf)
 
 Note: I am still learning so not 100% of what I say may be correct or best way to do it :)
